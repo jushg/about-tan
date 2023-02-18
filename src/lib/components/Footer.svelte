@@ -1,18 +1,18 @@
 <footer class="layout-md mt-20 text-lg flex flex-col">
-  <div class="row">
-    <span>Twitter</span>
+  <!-- <div class="row">
+    <span>Spotify</span>
     <hr />
     <a class="link" href="https://twitter.com/ekzhang1">@ekzhang1</a>
-  </div>
+  </div> -->
   <div class="row">
     <span>GitHub</span>
     <hr />
-    <a class="link" href="https://github.com/ekzhang">@ekzhang</a>
+    <a class="link" href="https://github.com/jushg">@jushg</a>
   </div>
   <div class="row">
     <span>Email</span>
     <hr />
-    <a class="link" href="mailto:ekzhang1@gmail.com">ekzhang1@gmail.com</a>
+    <a class="link" href="mailto:tanht282@gmail.com">tanht282@gmail.com</a>
   </div>
 </footer>
 

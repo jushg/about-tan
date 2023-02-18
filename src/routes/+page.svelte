@@ -5,36 +5,14 @@
 
   const featuredProjects = [
     {
-      name: "Bore",
-      href: "/projects#bore",
-      desc: "bypass your NAT in just 400 lines of code",
-      aside: "6000+ stars on GitHub",
-    },
-    {
-      name: "Percival",
-      href: "/projects#percival",
-      desc: "reactive notebooks for exploratory data analysis",
-    },
-    {
-      name: "Rustpad",
-      href: "/projects#rustpad",
-      desc: "self-hosted collaborative text editor",
-      aside: "2M+ downloads",
-    },
-    {
-      name: "Crepe",
-      href: "/projects#crepe",
-      desc: "compiled Datalog language in Rust",
-      aside: "used by cloud security systems & compilers",
-    },
-    {
-      name: "FastSeg",
-      href: "/projects#fastseg",
-      desc: "real-time semantic segmentation for self-driving cars",
+      name: "Cloud Jumpers",
+      href: "/projects#cloudjumpers",
+      desc: "IpadOS multiplayer platformer game",
+      aside: "1st Prize in STEPS 2022",
     },
     {
       name: "Set with Friends",
-      href: "/projects#setwithfriends",
+      href: "/projects#cloudjumpers",
       desc: "online multiplayer card game",
       aside: "30M+ page views, 900K+ users",
     },
@@ -42,7 +20,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang"
+  title="Hoang Trong Tan"
   description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
 />
 

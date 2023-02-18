@@ -57,6 +57,7 @@
     <li>Honors Abstract Algebra (Math 55a)</li>
     <li>Honors Real and Complex Analysis (Math 55b)</li>
   </ul>
+
 </section>
 
 <section class="layout-md py-12">
@@ -178,7 +179,7 @@
     </li>
   </Workplace>
 
-
+</section>
 
 <section class="layout-md py-12">
   <h2 class="heading2">Awards and Honors</h2>

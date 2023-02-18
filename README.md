@@ -1,4 +1,4 @@
-# ekzhang.github.io
+# Website
 
 Source code for my [personal website](), hosted on
 GitHub Pages.
