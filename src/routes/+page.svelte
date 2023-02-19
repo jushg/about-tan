@@ -8,13 +8,13 @@
       name: "Cloud Jumpers",
       href: "/projects#cloudjumpers",
       desc: "IpadOS multiplayer platformer game",
-      aside: "1st Prize in STEPS 2022",
+      aside: "Winner of the 20th NUS School of Computing Project Showcase",
     },
     {
-      name: "Set with Friends",
-      href: "/projects#cloudjumpers",
-      desc: "online multiplayer card game",
-      aside: "30M+ page views, 900K+ users",
+      name: "Peggle Redux",
+      href: "/projects#peggle",
+      desc: "a clone of the famous Peggle game",
+      aside: "I bult everything from scratch",
     },
   ];
 </script>
@@ -29,31 +29,33 @@
   id="eric-is"
 >
   <span class="g">is a</span> software engineer<span class="g">,</span><br />
-  researcher<span class="g">, and</span><br />
-  designer<span class="g">.</span>
+  tinkerer<span class="g">, and</span><br />
+  (amateur) competitive programmer<span class="g">.</span>
 </p>
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I study at National University of Singapore 
+      I am currently a Computer Engineering undergraduate student at National University of Singapore
     </p>
 
     <p>
-      My ambition is to make better <em>interactive software</em> that helps people
-      create, collaborate, learn, and meaningfully express what brings them joy.
-    </p>
+      As an software engineer, I am passionate about <em>algorithms, high-performance systems, and creating impactful projects</em
+      >. I strive to leverage my skills to develop innovative software solutions that address real-world problems. 
+     </p> 
 
     <p>
-      Towards that goal, I am a generalist and care deeply about <em>systems</em
-      >, which form the fundamental building blocks of our applications; and
-      <em>interaction design</em>, how we use and live with computers that are
-      all around us.
+     I also occasionally <em>tinker</em> with new hardware and software projects through <em>hackathons</em
+      > (although not very successful just yet), with the end goal of creating positive impact on society by delivering <em>reliable, 
+      user-friendly software products</em>.
     </p>
+    
+
+   
   </div>
 
   <div class="leading-snug space-y-4">
-    <p class="pb-2">Notable open-source work:</p>
+    <p class="pb-2">Notable projects:</p>
 
     {#each featuredProjects as project}
       <a class="project-pair" href={project.href}>
@@ -73,43 +75,22 @@
 
   <div class="space-y-5">
     <p>
-      Previously, I worked at <a class="link" href="https://prosper.org"
-        >Prosper Robotics</a
-      >, <a class="link" href="https://convex.dev">Convex</a>,
-      <a class="link" href="https://jumptrading.com">Jump Trading</a>,
-      <a class="link" href="https://scale.com">Scale AI</a>, and
-      <a class="link" href="https://nvidia.com">Nvidia</a>. I’ve also
-      independently published things in the past, like a
-      <a
-        class="link"
-        href="https://aip.scitation.org/doi/pdf/10.1063/9780735421646"
-        >physics book</a
-      >,
-      <a
-        class="link"
-        href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i1p24/pdf"
-        >combinatorics research</a
-      >, and
-      <a class="link" href="https://github.com/ekzhang/graphics-workshop"
-        >graphics tutorials</a
-      >
-      used by thousands. Before that, I won two gold medals at the
-      <a class="link" href="https://stats.ioinformatics.org/people/6717"
-        >International Olympiad in Informatics</a
-      >.
+      I have worked at <a class="link" href="https://www.tiktok.com"
+        >Tiktok</a
+      >, <a class="link" href="https://www.polybee.co">Polybee</a>. 
     </p>
 
-    <p>
-      At Harvard, I’ve been a distinguished teaching fellow for upper-level CS
+    <!-- <p>
+      At NUS, I’ve been a distinguished teaching fellow for upper-level CS
       classes. I enjoy playing viola with various <a
         class="link"
         href="https://www.harvardradcliffeorchestra.org/">classical</a
       >
       <a class="link" href="https://youtu.be/rYrVFTzP4sw">music</a>
       <a class="link" href="https://youngarts.org/">groups</a>.
-    </p>
+    </p> -->
 
-    <p>Other interests: math, physics, art, musical theatre, and biking.</p>
+    <p>Other interests: swimming, playing guitar, singing, and hiking.</p>
   </div>
 </div>
 

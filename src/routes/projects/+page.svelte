@@ -75,10 +75,10 @@
     tools that improve people's lives.
   </p>
 
-  <p class="text-lg mb-4">
+  <!-- <p class="text-lg mb-4">
     You'll see that I particularly like programming languages, distributed
     systems, machine learning, computer graphics, music, and art.
-  </p>
+  </p> -->
 
   <p class="text-lg">
     If you find something interesting,

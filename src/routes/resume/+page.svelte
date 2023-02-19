@@ -24,38 +24,23 @@
   <h4 class="font-medium mt-4 mb-1">Teaching:</h4>
   <ul>
     <li>
-      TF for CS 153 (Compilers), Fall 2021 —
-      <em>Certificate of Distinction in Teaching</em>
+      Grader for CS3217 (Software Engineering on Modern Application Platforms), Spring 2023 
     </li>
     <li>
-      TA for
-      <a class="link" href="https://sgi.mit.edu/"
-        >Summer Geometry Institute (SGI)</a
-      >, Summer 2021
+      Tutor for CS1010 (Programming Methodology) and CS2040 (Data Structures and Algorithms), Fall 2022
     </li>
     <li>
-      TF for CS 161 (Operating Systems), Spring 2021 —
-      <em>Certificate of Distinction in Teaching</em>
+      Advisor for CP2106 (Independent Software Development Project), Summer 2022 
     </li>
-    <li>TF for CS 182 (Artificial Intelligence), Fall 2020</li>
-    <li>
-      TF for CS 124 (Data Structures and Algorithms), Spring 2020 —
-      <em>Commendation for Extraordinary Teaching</em>
-    </li>
+    <li> Tutor for CS1010 (Programming Methodology), Spring 2022</li>
   </ul>
 
 
   <h4 class="font-medium mt-4 mb-1">Notable undergraduate technical coursework:</h4>
   <ul>
-    <li>Compilers (CS 153)</li>
-    <li>Operating Systems (CS 161)</li>
-    <li>Computer Graphics (MIT 6.837)</li>
-    <li>Nanotechnology Fabrication (MIT 6.2540)</li>
-    <li>Chaotic Dynamical Systems (Math 118r)</li>
-    <li>Number Fields (Math 129)</li>
-    <li>Differential Topology (Math 132)</li>
-    <li>Honors Abstract Algebra (Math 55a)</li>
-    <li>Honors Real and Complex Analysis (Math 55b)</li>
+    <li>Competitive Programming (CS3233)</li>
+    <li>Software Engineering on Modern Application Platforms (CS3217)</li>
+    <li>Software Product Engineering for Digital Markets (CS3216)</li>
   </ul>
 
 </section>
@@ -66,118 +51,46 @@
   <Workplace
     title="Software Engineer Intern"
     company="Tiktok"
-    url="https://modal.com/"
+    url="https://tiktok.com/"
     dates="December 2022 – Current"
     location="Singapore, Singapore"
   >
-    <li>Backend Engineer for Data Intelligence team - global e-Commerce</li>
-    <li>
-      Working on low-latency distributed systems, a secure container runtime,
-      and programming language & web interfaces.
-    </li>
+    <li>Developed REST endpoints for an e-Commerce merchant data service website to integrate and visualize data from SQL database and other RPC endpoints.</li>
+    <li>Setup an asynchronous export-to-excel service using ByteDance cloud function.</li>
   </Workplace>
 
   <Workplace
     title="Software Engineering Intern"
-    company="Prosper Robotics"
-    url="https://prosper.org/"
-    dates="January 2022"
-    location="London, UK"
+    company="Polybee"
+    url="https://www.polybee.co"
+    dates="May 2022"
+    location="Singapore, Singapore"
   >
     <li>
-      Early-stage startup developing VR-teleoperated household robots. Worked
+      Early-stage startup developing food solutions technology using micro-drones. Worked
       with electrical and mechanical engineers.
     </li>
     <li>
-      I wrote real-time (&lt;10 μs) embedded microcontrollers in C++, developed
-      new network services and robot control systems in Go. Refactored a lot of
-      code, fixed many bugs, ported software to a new robot, introduced
-      continuous integration, tests, static type checking for Python.
+      Developed a micro-drone navigation pipeline with Visual-SLAM algorithms and a mobile application to be used for path-planning, with 90\% success rate in operations and 80\% increase in possible flight-duration.
     </li>
+    <li>Led the effort to create an in-house framework for drones' automatic navigation using ROS2, pivoting from TCP to UDP-based communication.</li>
   </Workplace>
 
-
-  <Workplace
-    title="Software Engineering Intern"
-    company="Scale AI"
-    url="https://scale.com/"
-    dates="December 2020 – January 2021"
-    location="San Francisco, CA"
-  >
-    <li>
-      Worked on machine learning infrastructure for a fast-growing startup using
-      Terraform, Kubernetes, and AWS.
-    </li>
-    <li>
-      Developed an in-house system to unify the ML training workflow, allowing
-      the team to quickly iterate on models, share results on a tracking server,
-      and launch Kubernetes distributed training jobs, saving “hours” of time on
-      each experiment.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Architecture Intern"
-    company="Nvidia"
-    url="https://www.nvidia.com"
-    dates="June 2020 – August 2020"
-    location="Santa Clara, CA"
-  >
-    <li>
-      Worked with the Applied Deep Learning Research (ADLR) group on
-      <a class="link" href="https://arxiv.org/abs/2005.10821"
-        >deep learning models</a
-      > for street image segmentation.
-    </li>
-    <li>
-      Individually developed and released
-      <a class="link" href="https://github.com/ekzhang/fastseg">FastSeg</a>, an
-      open-source library containing state-of-the-art PyTorch implementations of
-      MobileNetV3 LR-ASPP for real-time semantic segmentation, significantly
-      more accurate than existing public implementations.
-    </li>
-  </Workplace>
 
   <Workplace
     title="Research Assistant"
-    company="Harvard Programming Languages Group"
-    url="https://pl.seas.harvard.edu/"
+    company="NUS School of Design and Environment"
+    url="https://cde.nus.edu.sg/dbe"
     dates="June 2020 – August 2020"
-    location="Cambridge, MA"
-    defaultHidden
+    location="Singapore,Singapore"
   >
     <li>
-      Worked on a C++ compiler for
-      <a class="link" href="https://github.com/HarvardPL/formulog">Formulog</a>,
-      a variant of Datalog that supports ML-like syntax extension and SMT
-      queries.
+      Designed and implemented an improved prototype of a smart ventilation system using MQTT protocol, Arduino and Raspberry  Pi, with 40% increase in response accuracy and 30\% of power saved.
     </li>
-    <li>
-      Generated highly parallel templatized C++17 code, used caching in B-Tree
-      comparisons to speed up Datalog evaluation by 16x, and optimized existing
-      OpenMP code using lockless data structures for an additional 4x speedup.
-    </li>
-    <li>
-      Wrote a handwritten parser that was 30x faster than the ANTLR-generated
-      LL(*) parser and used 20x less memory (80 GB to 4 GB).
-    </li>
+
   </Workplace>
 
-  <Workplace
-    title="Undergraduate Researcher"
-    company="Predictive Medicine Group"
-    url="https://www.predmed.org/"
-    dates="December 2019 – June 2020"
-    location="Boston, MA"
-    defaultHidden
-  >
-    <li>
-      Conducted research in statistics & medical informatics advised by Ben Reis
-      (Harvard Medical School), developing temporal models to identify patients
-      at high risk of suicide based on medical histories obtained from
-      Massachusetts General Hospital.
-    </li>
-  </Workplace>
+  
 
 </section>
 
@@ -188,48 +101,13 @@
     <h3 class="font-medium mb-1">Computer Science:</h3>
     <ul>
       <li>
-        <b>International Olympiad in Informatics (IOI):</b> Gold Medalist (2018,
-        2019), 7<sup>th</sup> place globally
+        <b>NUS STEPS 20th:</b> 1st Prize for CS3217 Project showcase
       </li>
-      <li>
-        <b>Google Hash Code:</b> World Finalist (2020, 2021, 2022), 6<sup
-          >th</sup
-        > place team out of over 100,000 students and professionals
-      </li>
-      <li>
-        <b>Google Code Jam:</b> Round 3 Finalist (2020), placed 34<sup>th</sup>
-        globally
-      </li>
-      <li><b>Facebook Hacker Cup:</b> Round 3 Finalist (2020)</li>
-      <li><b>PicoCTF:</b> Winner (2018), ranked 6th</li>
+
     </ul>
   </div>
 
-  <div class="mb-4">
-    <h3 class="font-medium mb-1">Mathematics:</h3>
-    <ul>
-      <li>
-        <b>Mathematical Olympiad Program (MOP):</b> Participant (2017), IMO team
-        selection group (2017, 2018)
-      </li>
-      <li>
-        <b>USA Math Olympiad (USAMO):</b> Honorable Mention (2017), top 24 in nation
-      </li>
-    </ul>
-  </div>
-
-  <div class="mb-4">
-    <h3 class="font-medium mb-1">Physics:</h3>
-    <ul>
-      <li><b>U.S. Physics Team:</b> Invitee (2017, 2018, 2019)</li>
-      <li>
-        <b>USA Physics Olympiad (USAPhO):</b> Gold Medalist (2017, 2018, 2019)
-      </li>
-    </ul>
-  </div>
-
-  <div class="mb-4">
-    <h3 class="font-medium mb-1">Music Performance:</h3>
+    <!-- <h3 class="font-medium mb-1">Music Performance:</h3>
     <ul>
       <li>
         <b>National YoungArts Foundation:</b> Winner in Classical Music (2018, 2019)
@@ -242,8 +120,7 @@
         <b>Texas All-State Symphony Orchestra:</b> Principal Violist (2017), Co-Principal
         (2016, 2018)
       </li>
-    </ul>
-  </div>
+    </ul> -->
 </section>
 
 <style lang="postcss">

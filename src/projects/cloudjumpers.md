@@ -1,14 +1,13 @@
 ---
 title: Cloud Jumpers
 date: 2022-04-06
-repo: jushg/CloudJumpers
+repo: CloudJumpers/CloudJumpers
 topics: ["Swift", "Django", "Game"]
 lead: 1-4 players Platformer Game on IpadOS.
 image: bore.png
 ---
 
-A Platformer game we build in 6 weeks
+An IpadOS platformer game for 1-4 players, built as part of CS3217 Team Project.
 
-**Links: [GitHub](https://github.com/jushg/CloudJumpers),
-[Crates.io](https://crates.io/crates/bore-cli),
-[Documentation](https://docs.rs/bore-cli)**
+**Links: [GitHub](https://github.com/CloudJumpers/CloudJumpers),
+[Documentation](https://github.com/jushg/CloudJumpers/blob/main/docs/Cloud%20Jumpers%20Final%20Report.pdf)**
