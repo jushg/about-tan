@@ -1,9 +1,4 @@
 <footer class="layout-md mt-20 text-lg flex flex-col">
-  <!-- <div class="row">
-    <span>Spotify</span>
-    <hr />
-    <a class="link" href="https://twitter.com/ekzhang1">@ekzhang1</a>
-  </div> -->
   <div class="row">
     <span>GitHub</span>
     <hr />
@@ -14,6 +9,12 @@
     <hr />
     <a class="link" href="mailto:tanht282@gmail.com">tanht282@gmail.com</a>
   </div>
+  <div class="row">
+    <span>Spotify</span>
+    <hr />
+    <a class="link" href="https://open.spotify.com/user/31z2k5tc6mt7ja7k3wurd3t4tbem?si=78c66fd0bac848af">@tan</a>
+  </div>
+  
 </footer>
 
 <style lang="postcss">

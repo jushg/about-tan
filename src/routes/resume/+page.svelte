@@ -5,7 +5,7 @@
 
 <Seo
   title="Trong Tan – Resume"
-  description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
+  description="Software engineer and occasional spagehetti code creator."
 />
 
 <section class="layout-md py-12">
@@ -71,7 +71,7 @@
       with electrical and mechanical engineers.
     </li>
     <li>
-      Developed a micro-drone navigation pipeline with Visual-SLAM algorithms and a mobile application to be used for path-planning, with 90\% success rate in operations and 80\% increase in possible flight-duration.
+      Developed a micro-drone navigation pipeline with Visual-SLAM algorithms and a mobile application to be used for path-planning, with 90% success rate in operations and 80% increase in possible flight-duration.
     </li>
     <li>Led the effort to create an in-house framework for drones' automatic navigation using ROS2, pivoting from TCP to UDP-based communication.</li>
   </Workplace>
@@ -85,7 +85,7 @@
     location="Singapore,Singapore"
   >
     <li>
-      Designed and implemented an improved prototype of a smart ventilation system using MQTT protocol, Arduino and Raspberry  Pi, with 40% increase in response accuracy and 30\% of power saved.
+      Designed and implemented an improved prototype of a smart ventilation system using MQTT protocol, Arduino and Raspberry  Pi, with 40% increase in response accuracy and 30% of power saved.
     </li>
 
   </Workplace>
