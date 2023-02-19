@@ -7,14 +7,14 @@
     {
       name: "Cloud Jumpers",
       href: "/projects#cloudjumpers",
-      desc: "IpadOS multiplayer platformer game",
+      desc: "iPadOS multiplayer platformer game",
       aside: "Winner of the 20th NUS School of Computing Project Showcase",
     },
     {
       name: "Peggle Redux",
       href: "/projects#peggle",
       desc: "a clone of the famous Peggle game",
-      aside: "I bult everything from scratch",
+      aside: "I built everything from scratch",
     },
   ];
 </script>
@@ -90,7 +90,7 @@
       <a class="link" href="https://youngarts.org/">groups</a>.
     </p> -->
 
-    <p>Other interests: swimming, playing guitar, singing, and hiking.</p>
+    <p>Other interests: swimming, playing guitar, singing, and taking care of my cats.</p>
   </div>
 </div>
 

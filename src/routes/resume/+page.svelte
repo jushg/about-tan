@@ -11,8 +11,6 @@
 <section class="layout-md py-12">
   <h2 class="heading2">Education</h2>
 
-
-
   <div class="mb-4">
     <div class="flex justify-between items-end">
       <h3 class="text-black text-lg">National University of Singapore</h3>
@@ -53,7 +51,7 @@
     company="Tiktok"
     url="https://tiktok.com/"
     dates="December 2022 – Current"
-    location="Singapore, Singapore"
+    location="Singapore"
   >
     <li>Developed REST endpoints for an e-Commerce merchant data service website to integrate and visualize data from SQL database and other RPC endpoints.</li>
     <li>Setup an asynchronous export-to-excel service using ByteDance cloud function.</li>
@@ -63,15 +61,15 @@
     title="Software Engineering Intern"
     company="Polybee"
     url="https://www.polybee.co"
-    dates="May 2022"
-    location="Singapore, Singapore"
+    dates="May 2022 - August 2022"
+    location="Singapore"
   >
     <li>
       Early-stage startup developing food solutions technology using micro-drones. Worked
       with electrical and mechanical engineers.
     </li>
     <li>
-      Developed a micro-drone navigation pipeline with Visual-SLAM algorithms and a mobile application to be used for path-planning, with 90% success rate in operations and 80% increase in possible flight-duration.
+      Developed a micro-drone navigation pipeline with Visual-SLAM algorithms, with 90% success rate in operations and 80% increase in possible flight-duration.
     </li>
     <li>Led the effort to create an in-house framework for drones' automatic navigation using ROS2, pivoting from TCP to UDP-based communication.</li>
   </Workplace>
@@ -81,16 +79,14 @@
     title="Research Assistant"
     company="NUS School of Design and Environment"
     url="https://cde.nus.edu.sg/dbe"
-    dates="June 2020 – August 2020"
-    location="Singapore,Singapore"
+    dates="June 2021 – December 2021"
+    location="Singapore"
   >
     <li>
       Designed and implemented an improved prototype of a smart ventilation system using MQTT protocol, Arduino and Raspberry  Pi, with 40% increase in response accuracy and 30% of power saved.
     </li>
 
   </Workplace>
-
-  
 
 </section>
 
