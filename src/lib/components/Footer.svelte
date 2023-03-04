@@ -22,7 +22,7 @@
   <div class="row">
     <span>Kattis</span>
     <hr />
-    <a class="link" href="https://open.kattis.com/users/jushg">Trong Tan</a>
+    <a class="link" href="https://open.kattis.com/users/jushg">@Tan</a>
   </div>
   
 </footer>
