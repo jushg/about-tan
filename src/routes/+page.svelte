@@ -48,10 +48,7 @@
      I also occasionally <em>tinker</em> with new hardware and software projects through <em>hackathons</em
       > (although not very successful just yet), with the end goal of creating positive impact on society by delivering <em>reliable, 
       user-friendly software products</em>.
-    </p>
-    
-
-   
+    </p>   
   </div>
 
   <div class="leading-snug space-y-4">

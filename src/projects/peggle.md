@@ -1,10 +1,10 @@
 ---
-title: Peggle
+title: Peggle (Clone)
 date: 2022-02-03
 repo: jushg
 topics: ["Swift", "Realm", "Game"]
 lead: iPadOS game that I built from scratch.
-image: bore.png
+image: peggle.png
 ---
 
 Built as part of CS3217 individual project, this is a clone of the 

@@ -62,17 +62,17 @@
 
 <Seo
   title="Trong Tan – Projects"
-  description="Open-source software projects in systems, web development, computer graphics, music, programming languages, machine learning, and more."
+  description="Software projects in systems, web development, computer graphics, music, programming languages, machine learning, and more."
 />
 
 <section class="layout-md py-12">
-  <h2 class="heading2">Open Source</h2>
+  <h2 class="heading2">Personal Projects</h2>
 
   <p class="text-lg mb-4">
-    I view building software in the open as a mode of <em
+    I view building new projects as a mode of <em
       class="font-serif text-[110%] leading-[100%]">creative exploration</em
     >. It lets me quickly act on inspiration, delve into new topics, and make
-    tools that improve people's lives.
+    something cool in the process.
   </p>
 
   <!-- <p class="text-lg mb-4">
