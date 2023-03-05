@@ -36,23 +36,22 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I am currently a Computer Engineering undergraduate student at National University of Singapore
+      I am currently a Computer Engineering undergraduate student at the National University of Singapore
     </p>
 
     <p>
-      As an software engineer, I am passionate about <em>algorithms, high-performance systems, and creating impactful projects</em
-      >. I strive to leverage my skills to develop innovative software solutions that address real-world problems. 
+      As a software engineer, I am passionate about <em>beautifully-crafted algorithms and high-performance computing systems</em
+      >, which I believe are the keys to creating innovative products that address real-world problems. 
      </p> 
 
     <p>
-     I also occasionally <em>tinker</em> with new hardware and software projects through <em>hackathons</em
-      > (although not very successful just yet), with the end goal of creating positive impact on society by delivering <em>reliable, 
-      user-friendly software products</em>.
+     I usually tinker with new hardware and software through hackathons and personal projects, to try and make something cool. 
+     Recently, I have also been fascinated by <em>Competitive Programming</em>, and have challenged myself to learn more about this. 
     </p>   
   </div>
 
   <div class="leading-snug space-y-4">
-    <p class="pb-2">Notable projects:</p>
+    <p class="pb-2">Some notable projects that I think is cool:</p>
 
     {#each featuredProjects as project}
       <a class="project-pair" href={project.href}>
