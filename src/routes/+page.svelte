@@ -40,13 +40,12 @@
     </p>
 
     <p>
-      As a software engineer, I am passionate about <em>beautifully-crafted algorithms and high-performance computing systems</em
-      >, which I believe are the keys to creating innovative products that address real-world problems. 
+      I am trying to learn more about algorithms and high-performance computing,and how they can address real-world problems. 
      </p> 
 
     <p>
      I usually tinker with new hardware and software through hackathons and personal projects, to try and make something cool. 
-     Recently, I have also been fascinated by <em>Competitive Programming</em>, and have challenged myself to learn more about this. 
+     Recently, I have also been fascinated by <em>Competitive Programming</em>, and have challenged myself with it. 
     </p>   
   </div>
 
