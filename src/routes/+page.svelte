@@ -21,7 +21,7 @@
 
 <Seo
   title="Hoang Trong Tan"
-  description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
+  description="Software engineer, tinkerer, and designer. Making meaningful systems and interfaces for people."
 />
 
 <p
@@ -40,13 +40,13 @@
     </p>
 
     <p>
-      I am trying to learn more about algorithms and high-performance computing,and how they can address real-world problems. 
-     </p> 
+     I like to tinker with new ideas through hackathons and personal projects, to try and make something cool, and hopefully create something impactful in the process.
+    </p>
 
     <p>
-     I usually tinker with new hardware and software through hackathons and personal projects, to try and make something cool. 
-     Recently, I have also been fascinated by <em>Competitive Programming</em>, and have challenged myself with it. 
-    </p>   
+      I am trying to learn more about algorithms and high-performance computing,and how they can address real-world problems.
+      My favourite languages is C++, as I love all the fine-tuning and optimisation the language allows.
+     </p>
   </div>
 
   <div class="leading-snug space-y-4">
@@ -72,20 +72,13 @@
     <p>
       I have worked at <a class="link" href="https://www.tiktok.com"
         >Tiktok</a
-      >, <a class="link" href="https://www.polybee.co">Polybee</a>. 
+      >, <a class="link" href="https://www.polybee.co"
+        >Polybee</a>, and most recently at <a class="link" href="https://anduintransact.com/"
+     >Anduin Transactions</a
+   >
     </p>
 
-    <!-- <p>
-      At NUS, I’ve been a distinguished teaching fellow for upper-level CS
-      classes. I enjoy playing viola with various <a
-        class="link"
-        href="https://www.harvardradcliffeorchestra.org/">classical</a
-      >
-      <a class="link" href="https://youtu.be/rYrVFTzP4sw">music</a>
-      <a class="link" href="https://youngarts.org/">groups</a>.
-    </p> -->
-
-    <p>Other interests: swimming, playing guitar, singing, and taking care of my cats.</p>
+    <p>Other interests of me: swimming, playing guitar, singing, and taking care of my cats.</p>
   </div>
 </div>
 

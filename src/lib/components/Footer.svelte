@@ -10,21 +10,15 @@
     <a class="link" href="mailto:tanht282@gmail.com">tanht282@gmail.com</a>
   </div>
   <div class="row">
-    <span>Spotify</span>
+    <span>LinkedIn</span>
     <hr />
-    <a class="link" href="https://open.spotify.com/user/31z2k5tc6mt7ja7k3wurd3t4tbem?si=78c66fd0bac848af">@tan</a>
+    <a class="link" href="https://www.linkedin.com/in/tan-ht/">Hoang Trong Tan</a>
   </div>
   <div class="row">
     <span>Codeforces</span>
     <hr />
     <a class="link" href="https://codeforces.com/profile/jushg">@jushg</a>
   </div>
-  <div class="row">
-    <span>Kattis</span>
-    <hr />
-    <a class="link" href="https://open.kattis.com/users/jushg">@Tan</a>
-  </div>
-  
 </footer>
 
 <style lang="postcss">
