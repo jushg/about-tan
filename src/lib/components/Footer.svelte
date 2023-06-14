@@ -7,12 +7,12 @@
   <div class="row">
     <span>Email</span>
     <hr />
-    <a class="link" href="mailto:tanht282@gmail.com">tanht282@gmail.com</a>
+    <a class="link" href="mailto:tanht282@gmail.com">@tanht282@gmail.com</a>
   </div>
   <div class="row">
     <span>LinkedIn</span>
     <hr />
-    <a class="link" href="https://www.linkedin.com/in/tan-ht/">Hoang Trong Tan</a>
+    <a class="link" href="https://www.linkedin.com/in/tan-ht/">@tanht</a>
   </div>
   <div class="row">
     <span>Codeforces</span>

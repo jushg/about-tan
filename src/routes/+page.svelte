@@ -40,20 +40,15 @@
     </p>
 
     <p>
-     I like to tinker with new ideas through hackathons and personal projects, to try and make something cool, and hopefully create something impactful in the process.
-    </p>
-
-    <p>
       I am trying to learn more about algorithms and high-performance computing,and how they can address real-world problems.
       My favourite languages is C++, as I love all the fine-tuning and optimisation the language allows.
      </p>
   </div>
-
   <div class="leading-snug space-y-4">
-    <p class="pb-2">Some notable projects that I think is cool:</p>
+    <p class="pb-2">I like to tinker with new ideas through hackathons and personal projects. Some notable projects that I think is cool:</p>
 
     {#each featuredProjects as project}
-      <a class="project-pair" href={project.href}>
+      <a class="project-pair bg-gray-100" href={project.href}>
         <div class="text-black font-medium">
           {project.name}
           <ArrowUpRight size={18} class="inline text-neutral-400" />

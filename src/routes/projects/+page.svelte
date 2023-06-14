@@ -68,11 +68,9 @@
 <section class="layout-md py-12">
   <h2 class="heading2">Personal Projects</h2>
 
+
   <p class="text-lg mb-4">
-    I view building new projects as a mode of <em
-      class="font-serif text-[110%] leading-[100%]">creative exploration</em
-    >. It lets me quickly act on inspiration, delve into new topics, and make
-    something cool in the process.
+    I like to build project, as it allows me to learn new technology and validate my idea very quickly. Here are some notable projects I have built:
   </p>
 
   <!-- <p class="text-lg mb-4">

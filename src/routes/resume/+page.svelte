@@ -47,10 +47,20 @@
   <h2 class="heading2">Professional Experience</h2>
 
   <Workplace
+  title="Software Engineer Intern"
+  company="Anduin Transactions"
+  url="https://anduintransact.com/"
+  dates="May 2023 - Current"
+  location="Vietnam"
+>
+  <li>Developed the internal IDE used by other developer to build smart legal contract.</li>
+</Workplace>
+
+  <Workplace
     title="Software Engineer Intern"
     company="Tiktok"
     url="https://tiktok.com/"
-    dates="December 2022 – Current"
+    dates="December 2022 - May 2023"
     location="Singapore"
   >
     <li>Developed REST endpoints for an e-Commerce merchant data service website to integrate and visualize data from SQL database and other RPC endpoints.</li>
@@ -65,8 +75,8 @@
     location="Singapore"
   >
     <li>
-      Early-stage startup developing food solutions technology using micro-drones. Worked
-      with electrical and mechanical engineers.
+      Early-stage startup developing food solutions technology using micro-drones. Joined
+      the micro-drone navigation and control developement team.
     </li>
     <li>
       Developed a micro-drone navigation pipeline with Visual-SLAM algorithms, with 90% success rate in operations and 80% increase in possible flight-duration.
@@ -97,7 +107,7 @@
     <h3 class="font-medium mb-1">Computer Science:</h3>
     <ul>
       <li>
-        <b>NUS STEPS 20th:</b> 1st Prize for CS3217 Project showcase
+        <b>NUS STEPS 20th:</b> 1st Prize for CS3217 Project Showcase
       </li>
 
     </ul>
