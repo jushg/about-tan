@@ -69,9 +69,7 @@
   <h2 class="heading2">Personal Projects</h2>
 
   <p class="text-lg mb-4">
-    I like to build project, as it allows me to learn new technology and validate my idea very quickly. Here are some notable projects I have built:
-  </p>
-  <p class="text-lg">
+    I like to build project, as it allows me to learn new technology and validate my idea very quickly. Here are some notable projects I have built.
     If you find something interesting,
     <a class="link" href="mailto:tanht282@gmail.com?subject=Software%20Projects"
       >let me know</a
