@@ -50,10 +50,12 @@
   title="Software Engineer Intern"
   company="Anduin Transactions"
   url="https://anduintransact.com/"
-  dates="May 2023 - Current"
+  dates="May 2023 - August 2023"
   location="Vietnam"
 >
-  <li>Developed the internal IDE used by other developer to build smart legal contract.</li>
+  <li>Led the development of a single-page web application for internal resources management using ScalaJS and FoundationDB, with efficient search indexing and tokenization features using Lucene.</li>
+  <li>Implemented a data migration pipeline, to be used for a large-scale production data migration, with failsafe and recovery mechanisms to achieve a 0% data loss rate. </li>
+  <li>Designed a fine-grained permission system following Google Zanzibar-inspired relationship-based access control model for a privacy-sensitive internal data platform.</li>
 </Workplace>
 
   <Workplace
@@ -64,6 +66,8 @@
     location="Singapore"
   >
     <li>Developed REST endpoints for an e-Commerce merchant data service website to integrate and visualize data from SQL database and other RPC endpoints.</li>
+    <li>Designed a standardized paradigm utilizing Golang Generics for REST endpoints’ development of a backend service, removing 70% of redundant code in new features.</li>
+    <li>Implemented an auto-testing script for Test Engineer to easily check for regression issues on a data-intensive service, eliminating 95% of common regression bugs.</li>
     <li>Setup an asynchronous export-to-excel service using ByteDance cloud function.</li>
   </Workplace>
 
@@ -79,9 +83,11 @@
       the micro-drone navigation and control developement team.
     </li>
     <li>
-      Developed a micro-drone navigation pipeline with Visual-SLAM algorithms, with 90% success rate in operations and 80% increase in possible flight-duration.
+      Developed a new micro-drone navigation algorithm based on VSLAM research papers, and a mobile application for path planning, with a 90% success rate in flight operations.
     </li>
-    <li>Led the effort to create an in-house framework for drones' automatic navigation using ROS2, pivoting from TCP to UDP-based communication.</li>
+    <li>
+      Led the effort to create an in-house framework for drones navigation based on ROS2, migrating from TCP to UDP-based communication to remove the single point of failure for the system.
+    </li>
   </Workplace>
 
 

@@ -68,16 +68,9 @@
 <section class="layout-md py-12">
   <h2 class="heading2">Personal Projects</h2>
 
-
   <p class="text-lg mb-4">
     I like to build project, as it allows me to learn new technology and validate my idea very quickly. Here are some notable projects I have built:
   </p>
-
-  <!-- <p class="text-lg mb-4">
-    You'll see that I particularly like programming languages, distributed
-    systems, machine learning, computer graphics, music, and art.
-  </p> -->
-
   <p class="text-lg">
     If you find something interesting,
     <a class="link" href="mailto:tanht282@gmail.com?subject=Software%20Projects"
