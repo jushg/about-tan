@@ -24,7 +24,7 @@
   description="Software engineer and tinkerer. Like to make new."
 />
 
-<div class ="grid grid-cols-2 gap-4 layout-md ">
+<div class ="grid grid-cols-2 gap-4 layout-md pt-4">
   <p
     class="text-black text-xl leading-tight font-light mb-16"
     id="eric-is"

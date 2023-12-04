@@ -8,7 +8,7 @@
   description="Software engineer and occasional spaghetti code creator."
 />
 
-<section class="layout-md pt-8 pb-4">
+<section class="layout-md">
 
   <div class="gif flex items-center justify-center"> <img width="300" height="259" alt="RaccoonSpaceGif" src="/blog.webp"> </div>
 
