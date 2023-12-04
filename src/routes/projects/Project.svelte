@@ -49,12 +49,12 @@
 
 <!-- Description and image -->
 <div class="space-y-4">
-  <div class="grid grid-cols-3 gap-4 md:gap-8 lg:gap-12">
+  <div class="grid grid-cols-2 gap-4 md:gap-8 lg:gap-12">
     <div class="col-span-3 md:col-span-2">
       <p class="text-lg font-light mb-3">{data.lead}</p>
       <Markdown source={data.content} />
     </div>
-    <div class="col-span-3 md:col-span-1">
+    <!-- <div class="col-span-3 md:col-span-1">
       <a rel="external" href={images[`../../projects/${data.image}`]?.default}>
         <img
           src={images[`../../projects/${data.image}`]?.default}
@@ -62,10 +62,10 @@
           class:border={data.image_border}
         />
       </a>
-    </div>
+    </div> -->
   </div>
 
-  {#if data.subimages}
+  <!-- {#if data.subimages}
     <div class="grid grid-cols-3 gap-4 md:gap-8 lg:gap-12">
       {#each data.subimages as image}
         <div class="col-span-full md:col-span-1">
@@ -78,7 +78,7 @@
         </div>
       {/each}
     </div>
-  {/if}
+  {/if} -->
 </div>
 
 <style lang="postcss">

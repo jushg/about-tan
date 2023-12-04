@@ -3,8 +3,7 @@
 
   const links = [
     { name: "projects", href: "/projects" },
-    // { name: "writing", href: "/writing" },
-    { name: "resume", href: "/resume" },
+    { name: "experiences", href: "/experiences" },
   ];
 
   let pageTitle: string | null = null;
@@ -23,7 +22,7 @@
   data-sveltekit-noscroll
   data-sveltekit-preload-code="eager"
 >
-  <h1 class="font-bold text-black text-2xl mb-6">
+  <h1 class="font-bold font-pacifico text-black text-2xl mb-6">
     <a href="/">Trong Tan</a>
     {#if pageTitle}
       <span class="page-title">
@@ -36,7 +35,7 @@
     {#each links as link (link)}
       <a
         href={link.href}
-        class="hover:text-black transition-colors"
+        class="hover:text-black transition-colors font-sans"
         class:text-black={$page.url.pathname === link.href}
       >
         {link.name}

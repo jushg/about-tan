@@ -21,31 +21,36 @@
 
 <Seo
   title="Hoang Trong Tan"
-  description="Software engineer, tinkerer, and designer. Making meaningful systems and interfaces for people."
+  description="Software engineer and tinkerer. Like to make new."
 />
 
-<p
-  class="layout-md text-black text-xl leading-tight font-light mb-16"
-  id="eric-is"
->
-  <span class="g">is a</span> software engineer<span class="g">,</span><br />
-  tinkerer<span class="g">, and</span><br />
-  (amateur) competitive programmer<span class="g">.</span>
-</p>
+<div class ="grid grid-cols-2 gap-4 layout-md ">
+  <p
+    class="text-black text-xl leading-tight font-light mb-16"
+    id="eric-is"
+  >
+    <span class="g">is a</span> programmer<span class="g">,</span><br />
+    coffee enthusiast<span class="g">, and</span><br />
+    triathlon trainee<span class="g">.</span>
+  </p>
+  <div class="gif flex items-center justify-center"> <img width="300" height="259" alt="RaccoonSpaceGif" src="/space.webp"> </div>
+</div>
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I am currently a Computer Engineering undergraduate student at the National University of Singapore
+      I am a Computer Engineering undergraduate student at the National University of Singapore
     </p>
 
     <p>
-      I am trying to learn more about algorithms and high-performance computing,and how they can address real-world problems.
-      My favourite languages is C++, as I love all the fine-tuning and optimisation the language allows.
+      In my free time, I like to tinker with new ideas through hackathons and personal projects, learning random stuff in the process.
+      I enjoy coding in C++ and Scala, and personally think these are the most well-crafted languages.
      </p>
+
+     <p>Some notable projects that I think is cool:</p>
+
   </div>
   <div class="leading-snug space-y-4">
-    <p class="pb-2">I like to tinker with new ideas through hackathons and personal projects. Some notable projects that I think is cool:</p>
 
     {#each featuredProjects as project}
       <a class="project-pair bg-gray-100" href={project.href}>
@@ -66,14 +71,13 @@
   <div class="space-y-5">
     <p>
       I have worked at <a class="link" href="https://www.tiktok.com"
-        >Tiktok</a
-      >, <a class="link" href="https://www.polybee.co"
+        >Tiktok</a>, <a class="link" href="https://www.polybee.co"
         >Polybee</a>, and most recently at <a class="link" href="https://anduintransact.com/"
-     >Anduin Transactions</a
-   >
+        >Anduin Transactions </a>
     </p>
 
-    <p>Other interests of me: swimming, playing guitar, singing, and taking care of my cats.</p>
+    <p>I got hooked on triathlon recently, and is trying to train for <a class="link" href="https://www.ironman.com">Ironman</a>. Other interests of me: swimming, creating Spotify playlists, and taking random pictures of my cats.</p>
+
   </div>
 </div>
 

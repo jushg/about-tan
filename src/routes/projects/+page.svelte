@@ -57,7 +57,7 @@
     return starsB - starsA;
   });
 
-  let sortOrder: "date" | "stars" = "date";
+  let sortOrder: "date" | "stars" = "stars";
 </script>
 
 <Seo
@@ -65,11 +65,12 @@
   description="Software projects in systems, web development, computer graphics, music, programming languages, machine learning, and more."
 />
 
-<section class="layout-md py-12">
-  <h2 class="heading2">Personal Projects</h2>
+<section class="layout-md pt-12">
+
+  <div class="gif flex items-center justify-center"> <img width="300" height="259" alt="RaccoonSpaceGif" src="/laptop.webp"> </div>
 
   <p class="text-lg mb-4">
-    I like to build project, as it allows me to learn new technology and validate my idea very quickly. Here are some notable projects I have built.
+    I like to build project and learn interesting things through them. Here are some notable projects I have built.
     If you find something interesting,
     <a class="link" href="mailto:tanht282@gmail.com?subject=Software%20Projects"
       >let me know</a
@@ -77,7 +78,9 @@
   </p>
 </section>
 
-<div class="bg-gray-900 text-neutral-200 dark">
+<section class="layout-md py-2">
+
+<!-- <div class="bg-gray-900 text-neutral-200 dark">
   <section class="layout-md py-12">
     <h2 class="heading2 text-white">Table of Contents</h2>
     <ul class="sm:columns-2">
@@ -88,9 +91,9 @@
       {/each}
     </ul>
   </section>
-</div>
+</div> -->
 
-<div class="bg-neutral-50 border-b border-neutral-200 py-4">
+<!-- <div class="bg-neutral-50 border-b border-neutral-200 py-4">
   <div class="flex justify-center space-x-6">
     <button
       class:active={sortOrder === "date"}
@@ -105,7 +108,9 @@
       <Star size={18} strokeWidth={1.8} class="mr-1.5" /> by Stars
     </button>
   </div>
-</div>
+</div> -->
+
+
 
 {#each sortOrder === "date" ? projectsByDate : projectsByStars as id (id)}
   <section class="py-10" id={trimName(id)}>
@@ -114,6 +119,8 @@
     </div>
   </section>
 {/each}
+
+</section>
 
 <style lang="postcss">
   button {

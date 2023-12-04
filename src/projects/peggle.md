@@ -1,9 +1,9 @@
 ---
-title: Peggle (Clone)
+title: Peggle Redux
 date: 2022-02-03
 repo: jushg
 topics: ["Swift", "Realm", "Game"]
-lead: iPadOS game that I built from scratch.
+lead: iPadOS game with a physics engine that I built from scratch.
 image: peggle.png
 ---
 
