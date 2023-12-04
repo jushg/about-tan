@@ -30,28 +30,32 @@
     id="eric-is"
   >
     <span class="g">is a</span> programmer<span class="g">,</span><br />
-    coffee enthusiast<span class="g">, and</span><br />
-    triathlon trainee<span class="g">.</span>
+    solo traveler<span class="g">, and</span><br />
+    music enthusiast<span class="g">.</span>
   </p>
   <div class="gif flex items-center justify-center"> <img width="300" height="259" alt="RaccoonSpaceGif" src="/space.webp"> </div>
 </div>
 
 <div class="layout-md text-lg space-y-14">
-  <div class="space-y-5">
+  <div class="space-y-4">
     <p>
       I am a Computer Engineering undergraduate student at the National University of Singapore
     </p>
 
     <p>
-      In my free time, I like to tinker with new ideas through hackathons and personal projects, learning random stuff in the process.
+      In my free time, I like to tinker with new ideas through hackathons and personal projects, trying to learn random stuff in the process.
       I enjoy coding in C++ and Scala, and personally think these are the most well-crafted languages.
      </p>
 
-     <p>Some notable projects that I think is cool:</p>
-
+     <p>
+      I have worked at <a class="link" href="https://www.tiktok.com"
+        >Tiktok</a>, <a class="link" href="https://www.polybee.co"
+        >Polybee</a>, and most recently at <a class="link" href="https://anduintransact.com/"
+        >Anduin Transactions </a>
+    </p>
   </div>
   <div class="leading-snug space-y-4">
-
+    <p>Some notable projects that I think is cool:</p>
     {#each featuredProjects as project}
       <a class="project-pair bg-gray-100" href={project.href}>
         <div class="text-black font-medium">
@@ -69,15 +73,12 @@
   </div>
 
   <div class="space-y-5">
-    <p>
-      I have worked at <a class="link" href="https://www.tiktok.com"
-        >Tiktok</a>, <a class="link" href="https://www.polybee.co"
-        >Polybee</a>, and most recently at <a class="link" href="https://anduintransact.com/"
-        >Anduin Transactions </a>
-    </p>
 
-    <p>I got hooked on triathlon recently, and is trying to train for <a class="link" href="https://www.ironman.com">Ironman</a>. Other interests of me: swimming, creating Spotify playlists, and taking random pictures of my cats.</p>
+  <p>I like to drink coffee, and just make it my goal to try out all coffee shop every where I go
+  . I also enjoy exploring different genres of music, and making random spotify playlists like this one:</p>
 
+  <!-- svelte-ignore a11y-missing-attribute -->
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75ZeKv9AWkBvtGnplW3ZZT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </div>
 </div>
 

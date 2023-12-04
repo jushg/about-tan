@@ -15,7 +15,7 @@ Game Engine is built follow the Entity-Component-System architecture, and Physic
 Beside Realm (ORM), which is used for persistence, no other external library is used for Physics Engine or Game Engine. Everything is created from scratch.
 
 
-**Note: Currently the codebase is set to private due to CS3217's course policy, please send me a message if you want to take a look.**
+**Note: Currently the codebase is set to private to prevent code copying, please send me a message if you want to take a look.**
 
 <!-- **Links: [GitHub](https://github.com/jushg/CloudJumpers),
 [Crates.io](https://crates.io/crates/bore-cli),

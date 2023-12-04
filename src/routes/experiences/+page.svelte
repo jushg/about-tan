@@ -25,8 +25,8 @@
   dates="May 2023 - August 2023"
   location="Vietnam"
 >
-  <li>Managed the full-stack development of a single-page web application for internal resources management, 
-    expected to be used by a team of 50 engineers, using Scala, FoundationDB and AWS.</li>
+  <li>Managed development of a single-page web application for internal resources management, 
+    used by a team of 50 engineers, built with Scala, FoundationDB and AWS.</li>
    <li> Implemented a lightweight embedded search engine using Apache Lucene's indexing and tokenization features.</li> 
    <li>Designed a fine-grained permission system for a privacy-sensitive internal data platform utilizing SpiceDB,
     a Google Zanzibar-inspired relationship-based access control model. </li>
@@ -39,9 +39,9 @@
     dates="December 2022 - May 2023"
     location="Singapore"
   >
-    <li>Developed REST-based endpoints for an e-Commerce data visualization website, use by internal business team and Tiktok Shop partners</li>
+    <li>Developed REST endpoints for an e-Commerce data visualization website, use by internal business team and TiktokShop partners</li>
     <li>Designed a standardized paradigm utilizing Golang Generics for REST endpoints’ development of a backend service, removing 70% of redundant code in new features.</li>
-    <li>Implemented an auto-testing script for Test Engineer to easily check for regression issues on a data-intensive service, eliminating 95% of common regression bugs.</li>
+    <li>Implemented an auto-testing script for QA to perform regression testing more easily on a data-intensive service, eliminating 95% of common regression bugs.</li>
   </Workplace>
 
   <Workplace
@@ -53,7 +53,7 @@
   >
     <li>Early-stage startup developing food solutions technology using micro-drones.</li>
     <li>Developed a micro-drone navigation algorithm based on V-SLAM research papers, and a mobile application for path planning, with a 90% success rate in flight operations.</li>
-    <li>Led the effort to create an in-house framework for drones navigation based on ROS2, migrating from TCP to UDP-based communication to remove the single point of failure for the system.</li>
+    <li>Led effort to create an in-house framework for drones navigation based on ROS2, migrating from TCP to UDP-based communication to remove single point of failure for the system.</li>
   </Workplace>
 
 
