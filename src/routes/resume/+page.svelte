@@ -34,7 +34,7 @@
   </ul>
 
 
-  <h4 class="font-medium mt-4 mb-1">Notable undergraduate technical coursework:</h4>
+  <h4 class="font-medium mt-4 mb-1">Notable module taken:</h4>
   <ul>
     <li>Competitive Programming (CS3233)</li>
     <li>Software Engineering on Modern Application Platforms (CS3217)</li>

@@ -54,31 +54,10 @@
       <p class="text-lg font-light mb-3">{data.lead}</p>
       <Markdown source={data.content} />
     </div>
-    <!-- <div class="col-span-3 md:col-span-1">
-      <a rel="external" href={images[`../../projects/${data.image}`]?.default}>
-        <img
-          src={images[`../../projects/${data.image}`]?.default}
-          alt="{data.title} preview image"
-          class:border={data.image_border}
-        />
-      </a>
-    </div> -->
+
   </div>
 
-  <!-- {#if data.subimages}
-    <div class="grid grid-cols-3 gap-4 md:gap-8 lg:gap-12">
-      {#each data.subimages as image}
-        <div class="col-span-full md:col-span-1">
-          <a rel="external" href={images[`../../projects/${image}`]?.default}>
-            <img
-              src={images[`../../projects/${image}`]?.default}
-              alt="{data.title} subimage"
-            />
-          </a>
-        </div>
-      {/each}
-    </div>
-  {/if} -->
+ 
 </div>
 
 <style lang="postcss">

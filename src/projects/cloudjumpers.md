@@ -4,7 +4,6 @@ date: 2022-04-06
 repo: CloudJumpers/CloudJumpers
 topics: ["Swift", "Django", "Game"]
 lead: 1-4 players platformer Game on IpadOS.
-image: cloudjumper.png
 ---
 
 Built as part of CS3217 (Software Engineering on Modern Application Platforms) team project.

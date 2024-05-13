@@ -43,15 +43,16 @@
     </p>
 
     <p>
-      In my free time, I like to tinker with new ideas through hackathons and personal projects, trying to learn random stuff in the process.
-      I enjoy coding in C++ and Scala, and personally think these are the most well-crafted languages.
+      In my free time, I like to tinker with new ideas through personal projects, trying to learn random stuff in the process.
+      I enjoy coding in C++, and have also touched on a lot of other interesting languages: Rust, Golang, Scala, Swift.
      </p>
 
      <p>
-      I have worked at <a class="link" href="https://www.tiktok.com"
+      I have interned at <a class="link" href="https://www.tiktok.com"
         >Tiktok</a>, <a class="link" href="https://www.polybee.co"
-        >Polybee</a>, and most recently at <a class="link" href="https://anduintransact.com/"
-        >Anduin Transactions </a>
+        >Polybee</a>, <a class="link" href="https://anduintransact.com/"
+        >Anduin Transactions</a>, and most recently at <a class="link" href="https://parallelchain-lab.io"
+        > ParallelChain Lab</a>
     </p>
   </div>
   <div class="leading-snug space-y-4">
@@ -74,7 +75,7 @@
 
   <div class="space-y-5">
 
-  <p>I like to drink coffee, and just make it my goal to try out all coffee shop every where I go
+  <p>I like to drink coffee, and just make it my goal to try out all coffee shop everywhere I go
   . I also enjoy exploring different genres of music, and making random spotify playlists like this one:</p>
 
   <!-- svelte-ignore a11y-missing-attribute -->
