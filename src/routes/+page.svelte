@@ -8,14 +8,20 @@
       name: "Cloud Jumpers",
       href: "/projects#cloudjumpers",
       desc: "iPadOS multiplayer platformer game",
-      aside: "Winner of the 20th NUS School of Computing Project Showcase",
+      aside: "winner of the 20th NUS School of Computing Project Showcase",
     },
     {
-      name: "Peggle Redux",
-      href: "/projects#peggle",
-      desc: "a clone of the famous Peggle game",
-      aside: "I built everything from scratch",
+      name: "Goose",
+      href: "/projects#goose",
+      desc: "a golang sublanguage interpreter written in Typescript",
+      aside: "I learned how compilers, interpreters and golang work in the process",
     },
+    {
+      name: "Market Order Database",
+      href: "/projects#marketdb",
+      desc: "database for market orders time series data",
+      aside: "proof of concept for a high performance time series database system",
+    }
   ];
 </script>
 
@@ -30,7 +36,7 @@
     id="eric-is"
   >
     <span class="g">is a</span> programmer<span class="g">,</span><br />
-    solo traveler<span class="g">, and</span><br />
+    traveler<span class="g">, and</span><br />
     music enthusiast<span class="g">.</span>
   </p>
   <div class="gif flex items-center justify-center"> <img width="300" height="259" alt="RaccoonSpaceGif" src="/space.webp"> </div>
@@ -39,12 +45,12 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-4">
     <p>
-      I am a Computer Engineering undergraduate student at the National University of Singapore
+      I recently graduated with a Bachelor in Computer Engineering from the National University of Singapore.
     </p>
 
     <p>
       In my free time, I like to tinker with new ideas through personal projects, trying to learn random stuff in the process.
-      I enjoy coding in C++, and have also touched on a lot of other interesting languages: Rust, Golang, Scala, Swift.
+      I love C++, and have also touched on a lot of other interesting languages throughout my work experiences: Rust, Golang, Scala, Swift, Python, Typescript.
      </p>
 
      <p>
@@ -56,7 +62,7 @@
     </p>
   </div>
   <div class="leading-snug space-y-4">
-    <p>Some notable projects that I think is cool:</p>
+    <p>Some notable projects that I think are cool:</p>
     {#each featuredProjects as project}
       <a class="project-pair bg-gray-100" href={project.href}>
         <div class="text-black font-medium">

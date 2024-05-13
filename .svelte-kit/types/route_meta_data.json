@@ -8,8 +8,5 @@
 	],
 	"/projects": [
 		"src/routes/+layout.ts"
-	],
-	"/resume": [
-		"src/routes/+layout.ts"
 	]
 }

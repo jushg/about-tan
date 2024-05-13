@@ -19,6 +19,17 @@
   <h2 class="heading2">Work Experiences</h2>
 
   <Workplace
+  title="Blockchain Software Engineer Intern"
+  company="ParallelChain Lab"
+  url="https://parallelchain-lab.io"
+  dates="April 2024 - Present"
+  location="Singapore"
+>
+  <li>Worked on the Smart Contract SDK in the Layer 1 Blockchain Protocol team.</li>
+
+</Workplace>
+
+  <Workplace
   title="Fullstack Software Engineer Intern"
   company="Anduin Transactions"
   url="https://anduintransact.com/"
@@ -87,11 +98,25 @@
   <li>Grader, CS3217 (Software Engineering on Modern Application Platforms), Spring 2023 </li>
   <li>Lab Tutor, CS1010 (Programming Methodology), Fall 2022 and Spring 2022</li>
   <li>Project Advisor, CP2106 (Independent Software Development Project), Summer 2022 </li>
-  <li>Lab Tutor, CS2040 (Data Structures and Algorithms), Spring 2022 and Fall 2023</li>
+  <li>Lab Tutor, CS2040 (Data Structures and Algorithms), Spring 2022, Fall 2023, Spring 2024</li>
   </Workplace>
 </section>
 
-<section class="layout-md pt-4">
+<section class="layout-md py-4">
+  <h2 class="heading2">Education</h2>
+
+  <Workplace
+    title="B.Eng. in Computer Engineering"
+    company="National University of Singapore"
+    url="https://www.comp.nus.edu.sg"
+    dates="August 2020 – May 2024"
+    location="Singapore"
+  >
+  <li>Took a lot of CS modules, not enough EE modules </li>
+  </Workplace>
+</section>
+
+<!-- <section class="layout-md pt-4">
   <h2 class="heading2">Awards and Honors</h2>
 
   <div class="mb-4">
@@ -105,7 +130,7 @@
 
     </ul>
   </div>
-</section>
+</section> -->
 
 <style lang="postcss">
   b {
