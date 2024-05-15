@@ -81,8 +81,7 @@
 
   <div class="space-y-5">
 
-  <p>I like to drink coffee, and just make it my goal to try out all coffee shop everywhere I go
-  . I also enjoy exploring different genres of music, and making random spotify playlists like this one:</p>
+  <p>I quite enjoy exploring different genres of music, and making random spotify playlists like this one:</p>
 
   <!-- svelte-ignore a11y-missing-attribute -->
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75ZeKv9AWkBvtGnplW3ZZT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
