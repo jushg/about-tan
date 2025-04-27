@@ -1,6 +1,6 @@
 # Website
 
-Source code for my [personal website](https://about-tan-jushg.vercel.app), hosted on
+Source code for my old [personal website](https://about-tan-jushg.vercel.app), hosted on
 GitHub Pages.
 
 This website is powered by [SvelteKit](https://kit.svelte.dev/) and
